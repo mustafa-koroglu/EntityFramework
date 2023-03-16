@@ -1,0 +1,16 @@
+C:\Users\bayma\source\repos\CSharpCourse\EntitityFrameworkDemo\bin\Debug\EntitityFrameworkDemo.exe.config
+C:\Users\bayma\source\repos\CSharpCourse\EntitityFrameworkDemo\bin\Debug\EntitityFrameworkDemo.exe
+C:\Users\bayma\source\repos\CSharpCourse\EntitityFrameworkDemo\bin\Debug\EntitityFrameworkDemo.pdb
+C:\Users\bayma\source\repos\CSharpCourse\EntitityFrameworkDemo\bin\Debug\EntityFramework.dll
+C:\Users\bayma\source\repos\CSharpCourse\EntitityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bayma\source\repos\CSharpCourse\EntitityFrameworkDemo\bin\Debug\EntityFramework.xml
+C:\Users\bayma\source\repos\CSharpCourse\EntitityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bayma\source\repos\CSharpCourse\EntitityFrameworkDemo\obj\Debug\EntitityFrameworkDemo.csproj.AssemblyReference.cache
+C:\Users\bayma\source\repos\CSharpCourse\EntitityFrameworkDemo\obj\Debug\EntitityFrameworkDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\bayma\source\repos\CSharpCourse\EntitityFrameworkDemo\obj\Debug\EntitityFrameworkDemo.Form1.resources
+C:\Users\bayma\source\repos\CSharpCourse\EntitityFrameworkDemo\obj\Debug\EntitityFrameworkDemo.Properties.Resources.resources
+C:\Users\bayma\source\repos\CSharpCourse\EntitityFrameworkDemo\obj\Debug\EntitityFrameworkDemo.csproj.GenerateResource.cache
+C:\Users\bayma\source\repos\CSharpCourse\EntitityFrameworkDemo\obj\Debug\EntitityFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\bayma\source\repos\CSharpCourse\EntitityFrameworkDemo\obj\Debug\EntitityFrameworkDemo.csproj.CopyComplete
+C:\Users\bayma\source\repos\CSharpCourse\EntitityFrameworkDemo\obj\Debug\EntitityFrameworkDemo.exe
+C:\Users\bayma\source\repos\CSharpCourse\EntitityFrameworkDemo\obj\Debug\EntitityFrameworkDemo.pdb
